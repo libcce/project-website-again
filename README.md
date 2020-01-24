@@ -6,6 +6,7 @@ blah blah
 words...
 
 more words...
+foo bar
 another suggestion
 Jamillah's change to this file
 Fork!
